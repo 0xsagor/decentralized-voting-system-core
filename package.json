@@ -1,0 +1,8 @@
+{
+  "name": "decentralized-voting-system-core",
+  "version": "1.0.0",
+  "description": "Secure blockchain-based voting and governance system",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
